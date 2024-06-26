@@ -1,0 +1,19 @@
+{
+  "name": "kevent-landing",
+  "version": "1.1.0",
+  "description": "Landing page of KEVENT Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S0KAA/KEVENT-Landing.git"
+  },
+  "author": "S0KAA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S0KAA/KEVENT-Landing/issues"
+  },
+  "homepage": "https://github.com/S0KAA/KEVENT-Landing#readme"
+}
